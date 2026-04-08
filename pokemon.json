@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-03-31",
+  "lastUpdate": "2026-04-08",
   "pokemon": [
     {
       "id": 1,
@@ -22257,12 +22257,12 @@
       "megaYUrl": null,
       "gmaxUrl": null,
       "region": "Paldea",
-      "releaseDate": null,
-      "shiny": null,
-      "lucky": null,
-      "100iv": null,
-      "xxs": null,
-      "xxl": null,
+      "releaseDate": "2026-04-28",
+      "shiny": "2026-04-28",
+      "lucky": "2026-04-28",
+      "100iv": "2026-04-28",
+      "xxs": "2026-04-28",
+      "xxl": "2026-04-28",
       "shadow": null,
       "purified": null,
       "dynamax": null,
