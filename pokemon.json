@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-04-08",
+  "lastUpdate": "2026-04-09",
   "pokemon": [
     {
       "id": 1,
@@ -19406,7 +19406,7 @@
       "gmaxUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10218.png",
       "region": "Galar",
       "releaseDate": "2026-04-14",
-      "shiny": "2026-04-14",
+      "shiny": null,
       "lucky": "2026-04-14",
       "100iv": "2026-04-14",
       "xxs": "2026-04-14",
