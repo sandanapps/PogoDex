@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-04-09",
+  "lastUpdate": "2026-04-17",
   "pokemon": [
     {
       "id": 1,
@@ -8672,7 +8672,7 @@
       "xxl": "2026-01-01",
       "shadow": "2026-01-01",
       "purified": "2026-01-01",
-      "dynamax": null,
+      "dynamax": "2026-04-20",
       "gigantamax": null,
       "mega": null
     },
