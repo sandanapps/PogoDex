@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-04-22",
+  "lastUpdate": "2026-05-11",
   "pokemon": [
     {
       "id": 1,
@@ -3452,8 +3452,8 @@
       "purified": "2026-01-01",
       "dynamax": null,
       "gigantamax": null,
-      "megaX": "2030-01-01",
-      "megaY": "2030-01-01"
+      "megaX": "2026-05-29",
+      "megaY": "2026-05-29"
     },
     {
       "id": 151,
@@ -18554,12 +18554,12 @@
       "megaYUrl": null,
       "gmaxUrl": null,
       "region": "Alola",
-      "releaseDate": null,
+      "releaseDate": "2026-05-29",
       "shiny": null,
       "lucky": null,
-      "100iv": null,
-      "xxs": null,
-      "xxl": null,
+      "100iv": "2026-05-29",
+      "xxs": "2026-05-29",
+      "xxl": "2026-05-29",
       "shadow": null,
       "purified": null,
       "dynamax": null,
