@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdate": "2026-04-13",
-  "count": 291,
-  "shinyCount": 278,
+  "lastUpdate": "2026-05-12",
+  "count": 303,
+  "shinyCount": 280,
   "eventPokemon": [
     {
       "dexNum": 1,
@@ -25,7 +25,7 @@
     {
       "dexNum": 1,
       "name": "Bulbasaur",
-      "form": "Visor",
+      "form": "Pikachu visor",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/ae/Bulbasaur_visor.png/revision/latest/scale-to-width-down/98?cb=20240213120250",
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/11/Bulbasaur_visor_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213120240",
       "hasShiny": true,
@@ -39,6 +39,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e0/Ivysaur_party_hat_shiny.png/revision/latest/scale-to-width-down/98?cb=20250624171335",
       "hasShiny": true,
       "id": 1365260948
+    },
+    {
+      "dexNum": 2,
+      "name": "Ivysaur",
+      "form": "Pikachu visor",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/60/Ivysaur_visor.png/revision/latest/scale-to-width-down/98?cb=20260430004626",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278858
     },
     {
       "dexNum": 3,
@@ -57,6 +66,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/8/87/Venusaur_party_hat_shiny.png/revision/latest/scale-to-width-down/98?cb=20250624171418",
       "hasShiny": true,
       "id": 431690411
+    },
+    {
+      "dexNum": 3,
+      "name": "Venusaur",
+      "form": "Pikachu visor",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/53/Venusaur_visor.png/revision/latest/scale-to-width-down/98?cb=20260430004812",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278859
     },
     {
       "dexNum": 4,
@@ -79,7 +97,7 @@
     {
       "dexNum": 4,
       "name": "Charmander",
-      "form": "Visor",
+      "form": "Pikachu visor",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/4e/Charmander_visor.png/revision/latest/scale-to-width-down/98?cb=20240213120330",
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/42/Charmander_visor_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213120322",
       "hasShiny": true,
@@ -93,6 +111,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/67/Charmeleon_party_hat_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213120652",
       "hasShiny": true,
       "id": 269374167
+    },
+    {
+      "dexNum": 5,
+      "name": "Charmeleon",
+      "form": "Pikachu visor",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/10/Charmeleon_visor.png/revision/latest/scale-to-width-down/98?cb=20260430005010",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278860
     },
     {
       "dexNum": 6,
@@ -111,6 +138,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/48/Charizard_party_hat_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213120618",
       "hasShiny": true,
       "id": 1527577192
+    },
+    {
+      "dexNum": 6,
+      "name": "Charizard",
+      "form": "Pikachu visor",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d5/Charizard_visor.png/revision/latest/scale-to-width-down/98?cb=20260430005037",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278861
     },
     {
       "dexNum": 7,
@@ -142,7 +178,7 @@
     {
       "dexNum": 7,
       "name": "Squirtle",
-      "form": "Visor",
+      "form": "Pikachu visor",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9e/Squirtle_visor.png/revision/latest/scale-to-width-down/98?cb=20240213120207",
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/8/80/Squirtle_visor_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213120420",
       "hasShiny": true,
@@ -165,6 +201,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6e/Wartortle_party_hat_shiny.png/revision/latest/scale-to-width-down/98?cb=20230626221850",
       "hasShiny": true,
       "id": 826512614
+    },
+    {
+      "dexNum": 8,
+      "name": "Wartortle",
+      "form": "Pikachu visor",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d8/Wartortle_visor.png/revision/latest/scale-to-width-down/98?cb=20260430005147",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278862
     },
     {
       "dexNum": 9,
@@ -192,6 +237,24 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/b4/Blastoise_party_hat_shiny.png/revision/latest/scale-to-width-down/98?cb=20230626222017",
       "hasShiny": true,
       "id": 1671503323
+    },
+    {
+      "dexNum": 9,
+      "name": "Blastoise",
+      "form": "Pikachu visor",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/c8/Blastoise_visor.png/revision/latest/scale-to-width-down/98?cb=20260430005211",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278863
+    },
+    {
+      "dexNum": 10,
+      "name": "Caterpie",
+      "form": "Poké Ball hat",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/5e/Caterpie_hat.png/revision/latest/scale-to-width-down/98?cb=20260424152346",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278864
     },
     {
       "dexNum": 12,
@@ -1002,6 +1065,51 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/10/Pikachu_baseball_shiny.png/revision/latest/scale-to-width-down/98?cb=20260228045128",
       "hasShiny": true,
       "id": 1014017604
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "Marathon visor",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/8/88/Pikachu_marathon_visor.png/revision/latest/scale-to-width-down/98?cb=20260424144512",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/3/3a/Pikachu_marathon_visor_shiny.png/revision/latest/scale-to-width-down/98?cb=20260424144535",
+      "hasShiny": true,
+      "id": 2142278865
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "Team Mystic hat",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9b/Pikachu_mystic.png/revision/latest/scale-to-width-down/98?cb=20260422170058",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278866
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "Team Instinct hat",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e6/Pikachu_instinct.png/revision/latest/scale-to-width-down/98?cb=20260422170245",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278867
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "Team Valor hat",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/c1/Pikachu_valor.png/revision/latest/scale-to-width-down/98?cb=20260422170358",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278868
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "Fossil",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/c9/Pikachu_fossil.png/revision/latest/scale-to-width-down/98?cb=20260424145027",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278869
     },
     {
       "dexNum": 26,
@@ -1935,8 +2043,8 @@
       "name": "Corsola",
       "form": "Pink sunglasses",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e1/Corsola_galarian_sunglasses.png/revision/latest/scale-to-width-down/98?cb=20260325032630",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/3/3a/Corsola_galarian_sunglasses_shiny.png/revision/latest/scale-to-width-down/98?cb=20260325032702",
+      "hasShiny": true,
       "id": 2142278857
     },
     {
