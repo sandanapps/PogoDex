@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdate": "2026-05-12",
-  "count": 303,
-  "shinyCount": 280,
+  "lastUpdate": "2026-06-10",
+  "count": 302,
+  "shinyCount": 289,
   "eventPokemon": [
     {
       "dexNum": 1,
@@ -45,8 +45,8 @@
       "name": "Ivysaur",
       "form": "Pikachu visor",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/60/Ivysaur_visor.png/revision/latest/scale-to-width-down/98?cb=20260430004626",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/0/0a/Ivysaur_visor_shiny.png/revision/latest/scale-to-width-down/98?cb=20260430004718",
+      "hasShiny": true,
       "id": 2142278858
     },
     {
@@ -72,8 +72,8 @@
       "name": "Venusaur",
       "form": "Pikachu visor",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/53/Venusaur_visor.png/revision/latest/scale-to-width-down/98?cb=20260430004812",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/bb/Venusaur_visor_shiny.png/revision/latest/scale-to-width-down/98?cb=20260430004749",
+      "hasShiny": true,
       "id": 2142278859
     },
     {
@@ -207,8 +207,8 @@
       "name": "Wartortle",
       "form": "Pikachu visor",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d8/Wartortle_visor.png/revision/latest/scale-to-width-down/98?cb=20260430005147",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/0/02/Wartortle_visor_shiny.png/revision/latest/scale-to-width-down/98?cb=20260430005129",
+      "hasShiny": true,
       "id": 2142278862
     },
     {
@@ -243,8 +243,8 @@
       "name": "Blastoise",
       "form": "Pikachu visor",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/c8/Blastoise_visor.png/revision/latest/scale-to-width-down/98?cb=20260430005211",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9d/Blastoise_visor_shiny.png/revision/latest/scale-to-width-down/98?cb=20260430005235",
+      "hasShiny": true,
       "id": 2142278863
     },
     {
@@ -252,8 +252,8 @@
       "name": "Caterpie",
       "form": "Poké Ball hat",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/5e/Caterpie_hat.png/revision/latest/scale-to-width-down/98?cb=20260424152346",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/f/fa/Caterpie_hat_shiny.png/revision/latest/scale-to-width-down/98?cb=20260424152404",
+      "hasShiny": true,
       "id": 2142278864
     },
     {
@@ -1078,10 +1078,19 @@
     {
       "dexNum": 25,
       "name": "Pikachu",
+      "form": "Excavator",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/c9/Pikachu_fossil.png/revision/latest/scale-to-width-down/98?cb=20260424145027",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/0/05/Pikachu_fossil_shiny.png/revision/latest/scale-to-width-down/98?cb=20260424145049",
+      "hasShiny": true,
+      "id": 2142278869
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
       "form": "Team Mystic hat",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9b/Pikachu_mystic.png/revision/latest/scale-to-width-down/98?cb=20260422170058",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/c3/Pikachu_mystic_shiny.png/revision/latest/scale-to-width-down/98?cb=20260422170145",
+      "hasShiny": true,
       "id": 2142278866
     },
     {
@@ -1089,8 +1098,8 @@
       "name": "Pikachu",
       "form": "Team Instinct hat",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e6/Pikachu_instinct.png/revision/latest/scale-to-width-down/98?cb=20260422170245",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/20/Pikachu_instinct_shiny.png/revision/latest/scale-to-width-down/98?cb=20260422170301",
+      "hasShiny": true,
       "id": 2142278867
     },
     {
@@ -1098,18 +1107,9 @@
       "name": "Pikachu",
       "form": "Team Valor hat",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/c1/Pikachu_valor.png/revision/latest/scale-to-width-down/98?cb=20260422170358",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d0/Pikachu_valor_shiny.png/revision/latest/scale-to-width-down/98?cb=20260422170412",
+      "hasShiny": true,
       "id": 2142278868
-    },
-    {
-      "dexNum": 25,
-      "name": "Pikachu",
-      "form": "Fossil",
-      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/c9/Pikachu_fossil.png/revision/latest/scale-to-width-down/98?cb=20260424145027",
-      "shinyImageUrl": null,
-      "hasShiny": false,
-      "id": 2142278869
     },
     {
       "dexNum": 26,
@@ -1740,15 +1740,6 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d1/Dragonite_bow_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213133222",
       "hasShiny": true,
       "id": 2082291841
-    },
-    {
-      "dexNum": 150,
-      "name": "Mewtwo",
-      "form": "2017 GO Stadium",
-      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d3/Mewtwo.png/revision/latest/scale-to-width-down/98?cb=20240212213812",
-      "shinyImageUrl": null,
-      "hasShiny": false,
-      "id": 732682802
     },
     {
       "dexNum": 150,
