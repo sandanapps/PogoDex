@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-06-01",
+  "lastUpdate": "2026-06-10",
   "pokemon": [
     {
       "id": 1,
@@ -1976,8 +1976,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -1999,8 +1999,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -3748,8 +3748,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": "2026-06-22",
       "gigantamax": null,
       "mega": null
@@ -3771,8 +3771,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": "2026-06-22",
       "gigantamax": null,
       "mega": null
@@ -5224,7 +5224,7 @@
       "purified": "2026-01-01",
       "dynamax": null,
       "gigantamax": null,
-      "mega": null
+      "mega": "2026-06-27"
     },
     {
       "id": 228,
@@ -14788,8 +14788,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -16421,8 +16421,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -16444,8 +16444,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -18882,8 +18882,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": "2026-01-01",
       "gigantamax": null,
       "mega": null
@@ -18905,8 +18905,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": "2026-01-01",
       "gigantamax": null,
       "mega": null
@@ -18928,8 +18928,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": "2026-01-01",
       "gigantamax": null,
       "mega": null
@@ -21406,12 +21406,12 @@
       "megaYUrl": null,
       "gmaxUrl": null,
       "region": "Paldea",
-      "releaseDate": null,
+      "releaseDate": "2026-06-23",
       "shiny": null,
-      "lucky": null,
-      "100iv": null,
-      "xxs": null,
-      "xxl": null,
+      "lucky": "2026-06-23",
+      "100iv": "2026-06-23",
+      "xxs": "2026-06-23",
+      "xxl": "2026-06-23",
       "shadow": null,
       "purified": null,
       "dynamax": null,
