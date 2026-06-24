@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-06-19",
+  "lastUpdate": "2026-06-24",
   "pokemon": [
     {
       "id": 1,
@@ -585,8 +585,8 @@
       "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
       "shinyUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/26.png",
       "megaUrl": null,
-      "megaXUrl": null,
-      "megaYUrl": null,
+      "megaXUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10304.png",
+      "megaYUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10305.png",
       "gmaxUrl": null,
       "region": "Kanto",
       "releaseDate": "2026-01-01",
@@ -14029,8 +14029,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -14052,8 +14052,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -14075,8 +14075,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-06-25",
+      "purified": "2026-06-25",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -15789,7 +15789,7 @@
       "name": "Malamar",
       "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png",
       "shinyUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/687.png",
-      "megaUrl": null,
+      "megaUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10297.png",
       "megaXUrl": null,
       "megaYUrl": null,
       "gmaxUrl": null,
