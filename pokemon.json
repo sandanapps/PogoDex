@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-06-24",
+  "lastUpdate": "2026-07-03",
   "pokemon": [
     {
       "id": 1,
@@ -18762,7 +18762,7 @@
       "gmaxUrl": null,
       "region": "Galar",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-07-04",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
@@ -18785,7 +18785,7 @@
       "gmaxUrl": null,
       "region": "Galar",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-07-04",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
@@ -18808,7 +18808,7 @@
       "gmaxUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10211.png",
       "region": "Galar",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-07-04",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
