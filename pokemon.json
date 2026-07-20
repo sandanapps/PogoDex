@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-07-13",
+  "lastUpdate": "2026-07-20",
   "pokemon": [
     {
       "id": 1,
@@ -2785,7 +2785,7 @@
       "purified": "2026-01-01",
       "dynamax": null,
       "gigantamax": null,
-      "mega": null
+      "mega": "2026-08-22"
     },
     {
       "id": 122,
@@ -18187,7 +18187,7 @@
       "gmaxUrl": null,
       "region": "Alola",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-07-22",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
