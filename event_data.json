@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdate": "2026-06-10",
-  "count": 302,
-  "shinyCount": 289,
+  "lastUpdate": "2026-07-21",
+  "count": 305,
+  "shinyCount": 293,
   "eventPokemon": [
     {
       "dexNum": 1,
@@ -117,8 +117,8 @@
       "name": "Charmeleon",
       "form": "Pikachu visor",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/10/Charmeleon_visor.png/revision/latest/scale-to-width-down/98?cb=20260430005010",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/3/35/Charmeleon_visor_shiny.png/revision/latest/scale-to-width-down/98?cb=20260430004950",
+      "hasShiny": true,
       "id": 2142278860
     },
     {
@@ -144,8 +144,8 @@
       "name": "Charizard",
       "form": "Pikachu visor",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d5/Charizard_visor.png/revision/latest/scale-to-width-down/98?cb=20260430005037",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/ca/Charizard_visor_shiny.png/revision/latest/scale-to-width-down/98?cb=20260430005059",
+      "hasShiny": true,
       "id": 2142278861
     },
     {
@@ -1112,6 +1112,15 @@
       "id": 2142278868
     },
     {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "Professor Willow's assistant",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/7/7f/Pikachu_willow.png/revision/latest/scale-to-width-down/98?cb=20260629235103",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e3/Pikachu_willow_shiny.png/revision/latest/scale-to-width-down/98?cb=20260629235201",
+      "hasShiny": true,
+      "id": 2142278870
+    },
+    {
       "dexNum": 26,
       "name": "Raichu",
       "form": "Summer hat",
@@ -1740,6 +1749,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d1/Dragonite_bow_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213133222",
       "hasShiny": true,
       "id": 2082291841
+    },
+    {
+      "dexNum": 150,
+      "name": "Mewtwo",
+      "form": "2017 Yokohama Stadium&#91;1&#93;",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d3/Mewtwo.png/revision/latest/scale-to-width-down/98?cb=20240212213812",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278871
     },
     {
       "dexNum": 150,
@@ -2721,6 +2739,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/24/Gimmighoul_roaming_9th_anniversary_coin_shiny.png/revision/latest/scale-to-width-down/98?cb=20250624190952",
       "hasShiny": true,
       "id": 1427416026
+    },
+    {
+      "dexNum": 999,
+      "name": "Gimmighoul",
+      "form": "10th anniversary coin",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d4/Gimmighoul_roaming_10th_anniversary_coin.png/revision/latest/scale-to-width-down/98?cb=20260624124756",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/8/84/Gimmighoul_roaming_10th_anniversary_coin_shiny.png/revision/latest/scale-to-width-down/98?cb=20260624124819",
+      "hasShiny": true,
+      "id": 2142278872
     }
   ]
 }
