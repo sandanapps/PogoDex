@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-07-20",
+  "lastUpdate": "2026-07-21",
   "pokemon": [
     {
       "id": 1,
@@ -2770,7 +2770,7 @@
       "name": "Starmie",
       "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
       "shinyUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/121.png",
-      "megaUrl": null,
+      "megaUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10280.png",
       "megaXUrl": null,
       "megaYUrl": null,
       "gmaxUrl": null,
@@ -5209,7 +5209,7 @@
       "name": "Skarmory",
       "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
       "shinyUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/227.png",
-      "megaUrl": null,
+      "megaUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10284.png",
       "megaXUrl": null,
       "megaYUrl": null,
       "gmaxUrl": null,
@@ -19998,7 +19998,7 @@
       "name": "Falinks",
       "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/870.png",
       "shinyUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/870.png",
-      "megaUrl": null,
+      "megaUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10303.png",
       "megaXUrl": null,
       "megaYUrl": null,
       "gmaxUrl": null,
