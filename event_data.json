@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdate": "2026-07-21",
-  "count": 305,
-  "shinyCount": 293,
+  "lastUpdate": "2026-08-25",
+  "count": 311,
+  "shinyCount": 295,
   "eventPokemon": [
     {
       "dexNum": 1,
@@ -1119,6 +1119,60 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e3/Pikachu_willow_shiny.png/revision/latest/scale-to-width-down/98?cb=20260629235201",
       "hasShiny": true,
       "id": 2142278870
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "Cosmog-themed spacesuit",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9f/Pikachu_female_spacesuit.png/revision/latest/scale-to-width-down/98?cb=20260805175333",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/ba/Pikachu_female_spacesuit_shiny.png/revision/latest/scale-to-width-down/98?cb=20260805175428",
+      "hasShiny": true,
+      "id": 2142278873
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "World Championships 2026",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/0/07/Pikachu_worlds_2026.png/revision/latest/scale-to-width-down/98?cb=20260805175451",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/cc/Pikachu_worlds_2026_shiny.png/revision/latest/scale-to-width-down/98?cb=20260805175517",
+      "hasShiny": true,
+      "id": 2142278874
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "PokéXciting! (Turquoise)",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/dd/Pikachu_Pok%C3%A9Xciting_turquoise.png/revision/latest/scale-to-width-down/98?cb=20260822035644",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278875
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "PokéXciting! (Pink)",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/7/7a/Pikachu_Pok%C3%A9Xciting_pink.png/revision/latest/scale-to-width-down/98?cb=20260822035800",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278876
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "PokéXciting! (Blue)",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/95/Pikachu_Pok%C3%A9Xciting_blue.png/revision/latest/scale-to-width-down/98?cb=20260822035824",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278877
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "PokéXciting! (Red)",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/8/87/Pikachu_Pok%C3%A9Xciting_red.png/revision/latest/scale-to-width-down/98?cb=20260822035845",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278878
     },
     {
       "dexNum": 26,
