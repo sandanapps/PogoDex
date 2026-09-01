@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-08-24",
+  "lastUpdate": "2026-09-01",
   "pokemon": [
     {
       "id": 1,
@@ -2553,7 +2553,7 @@
       "xxl": "2026-01-01",
       "shadow": "2026-01-01",
       "purified": "2026-01-01",
-      "dynamax": null,
+      "dynamax": "2026-09-14",
       "gigantamax": null,
       "mega": null
     },
@@ -2576,7 +2576,7 @@
       "xxl": "2026-01-01",
       "shadow": "2026-01-01",
       "purified": "2026-01-01",
-      "dynamax": null,
+      "dynamax": "2026-09-14",
       "gigantamax": null,
       "mega": null
     },
@@ -10673,7 +10673,7 @@
       "xxl": "2026-01-01",
       "shadow": "2026-01-01",
       "purified": "2026-01-01",
-      "dynamax": null,
+      "dynamax": "2026-09-14",
       "gigantamax": null,
       "mega": null
     },
@@ -14999,7 +14999,7 @@
       "purified": "2026-01-01",
       "dynamax": null,
       "gigantamax": null,
-      "mega": null
+      "mega": "2026-08-28"
     },
     {
       "id": 653,
@@ -15068,7 +15068,7 @@
       "purified": "2026-01-01",
       "dynamax": null,
       "gigantamax": null,
-      "mega": null
+      "mega": "2026-08-28"
     },
     {
       "id": 656,
@@ -15137,7 +15137,7 @@
       "purified": "2026-01-01",
       "dynamax": null,
       "gigantamax": null,
-      "mega": null
+      "mega": "2026-08-28"
     },
     {
       "id": 659,
@@ -21659,12 +21659,12 @@
       "megaYUrl": null,
       "gmaxUrl": null,
       "region": "Paldea",
-      "releaseDate": null,
+      "releaseDate": "2026-09-08",
       "shiny": null,
-      "lucky": null,
-      "100iv": null,
-      "xxs": null,
-      "xxl": null,
+      "lucky": "2026-09-08",
+      "100iv": "2026-09-08",
+      "xxs": "2026-09-08",
+      "xxl": "2026-09-08",
       "shadow": null,
       "purified": null,
       "dynamax": null,
@@ -21682,12 +21682,12 @@
       "megaYUrl": null,
       "gmaxUrl": null,
       "region": "Paldea",
-      "releaseDate": null,
+      "releaseDate": "2026-09-08",
       "shiny": null,
-      "lucky": null,
-      "100iv": null,
-      "xxs": null,
-      "xxl": null,
+      "lucky": "2026-09-08",
+      "100iv": "2026-09-08",
+      "xxs": "2026-09-08",
+      "xxl": "2026-09-08",
       "shadow": null,
       "purified": null,
       "dynamax": null,
@@ -22373,7 +22373,7 @@
       "gmaxUrl": null,
       "region": "Paldea",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-09-08",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
