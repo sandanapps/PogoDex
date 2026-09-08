@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-09-01",
+  "lastUpdate": "2026-09-08",
   "pokemon": [
     {
       "id": 1,
@@ -9157,7 +9157,7 @@
       "purified": "2026-01-01",
       "dynamax": null,
       "gigantamax": null,
-      "mega": null
+      "mega": "2026-09-19"
     },
     {
       "id": 399,
@@ -14811,8 +14811,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-10-02",
+      "purified": "2026-10-02",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -17318,8 +17318,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-10-02",
+      "purified": "2026-10-02",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -17341,8 +17341,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-10-02",
+      "purified": "2026-10-02",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -17640,8 +17640,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-10-02",
+      "purified": "2026-10-02",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -17663,8 +17663,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-10-02",
+      "purified": "2026-10-02",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -17686,8 +17686,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-10-02",
+      "purified": "2026-10-02",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -17709,8 +17709,8 @@
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
       "xxl": "2026-01-01",
-      "shadow": null,
-      "purified": null,
+      "shadow": "2026-10-02",
+      "purified": "2026-10-02",
       "dynamax": null,
       "gigantamax": null,
       "mega": null
@@ -19314,7 +19314,7 @@
       "gmaxUrl": null,
       "region": "Galar",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-09-29",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
@@ -19337,7 +19337,7 @@
       "gmaxUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10216.png",
       "region": "Galar",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-09-29",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
@@ -19360,7 +19360,7 @@
       "gmaxUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10217.png",
       "region": "Galar",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-09-29",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
@@ -23247,7 +23247,7 @@
       "gmaxUrl": null,
       "region": "Paldea",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-09-29",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
@@ -23431,7 +23431,7 @@
       "gmaxUrl": null,
       "region": "Paldea",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-09-29",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastUpdate": "2026-08-25",
-  "count": 311,
+  "lastUpdate": "2026-09-08",
+  "count": 315,
   "shinyCount": 295,
   "eventPokemon": [
     {
@@ -104,6 +104,15 @@
       "id": 1737538104
     },
     {
+      "dexNum": 4,
+      "name": "Charmander",
+      "form": "Friede's goggles",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/bd/Charmander_horizons.png/revision/latest/scale-to-width-down/98?cb=20260903185737",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278879
+    },
+    {
       "dexNum": 5,
       "name": "Charmeleon",
       "form": "Party hat",
@@ -120,6 +129,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/3/35/Charmeleon_visor_shiny.png/revision/latest/scale-to-width-down/98?cb=20260430004950",
       "hasShiny": true,
       "id": 2142278860
+    },
+    {
+      "dexNum": 5,
+      "name": "Charmeleon",
+      "form": "Friede's goggles",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/54/Charmeleon_horizons.png/revision/latest/scale-to-width-down/98?cb=20260903185804",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278880
     },
     {
       "dexNum": 6,
@@ -147,6 +165,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/ca/Charizard_visor_shiny.png/revision/latest/scale-to-width-down/98?cb=20260430005059",
       "hasShiny": true,
       "id": 2142278861
+    },
+    {
+      "dexNum": 6,
+      "name": "Charizard",
+      "form": "Friede's goggles",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/a1/Charizard_horizons.png/revision/latest/scale-to-width-down/98?cb=20260903185819",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278881
     },
     {
       "dexNum": 7,
@@ -1173,6 +1200,15 @@
       "shinyImageUrl": null,
       "hasShiny": false,
       "id": 2142278878
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "Orange hanbok",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/ba/Pikachu_female_orange_hanbok.png/revision/latest/scale-to-width-down/98?cb=20260902142122",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278882
     },
     {
       "dexNum": 26,
