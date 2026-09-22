@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdate": "2026-09-08",
-  "count": 315,
-  "shinyCount": 295,
+  "lastUpdate": "2026-09-22",
+  "count": 316,
+  "shinyCount": 303,
   "eventPokemon": [
     {
       "dexNum": 1,
@@ -108,8 +108,8 @@
       "name": "Charmander",
       "form": "Friede's goggles",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/bd/Charmander_horizons.png/revision/latest/scale-to-width-down/98?cb=20260903185737",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9d/Charmander_horizons_shiny.png/revision/latest/scale-to-width-down/98?cb=20260903185834",
+      "hasShiny": true,
       "id": 2142278879
     },
     {
@@ -135,8 +135,8 @@
       "name": "Charmeleon",
       "form": "Friede's goggles",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/54/Charmeleon_horizons.png/revision/latest/scale-to-width-down/98?cb=20260903185804",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/4e/Charmeleon_horizons_shiny.png/revision/latest/scale-to-width-down/98?cb=20260903185848",
+      "hasShiny": true,
       "id": 2142278880
     },
     {
@@ -171,8 +171,8 @@
       "name": "Charizard",
       "form": "Friede's goggles",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/a1/Charizard_horizons.png/revision/latest/scale-to-width-down/98?cb=20260903185819",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d1/Charizard_horizons_shiny.png/revision/latest/scale-to-width-down/98?cb=20260903185904",
+      "hasShiny": true,
       "id": 2142278881
     },
     {
@@ -1170,8 +1170,8 @@
       "name": "Pikachu",
       "form": "PokéXciting! (Turquoise)",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/dd/Pikachu_Pok%C3%A9Xciting_turquoise.png/revision/latest/scale-to-width-down/98?cb=20260822035644",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/62/Pikachu_Pok%C3%A9Xciting_turquoise_shiny.png/revision/latest/scale-to-width-down/98?cb=20260822035919",
+      "hasShiny": true,
       "id": 2142278875
     },
     {
@@ -1179,8 +1179,8 @@
       "name": "Pikachu",
       "form": "PokéXciting! (Pink)",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/7/7a/Pikachu_Pok%C3%A9Xciting_pink.png/revision/latest/scale-to-width-down/98?cb=20260822035800",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/ab/Pikachu_Pok%C3%A9Xciting_pink_shiny.png/revision/latest/scale-to-width-down/98?cb=20260822035943",
+      "hasShiny": true,
       "id": 2142278876
     },
     {
@@ -1188,8 +1188,8 @@
       "name": "Pikachu",
       "form": "PokéXciting! (Blue)",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/95/Pikachu_Pok%C3%A9Xciting_blue.png/revision/latest/scale-to-width-down/98?cb=20260822035824",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/7/7c/Pikachu_Pok%C3%A9Xciting_blue_shiny.png/revision/latest/scale-to-width-down/98?cb=20260822040006",
+      "hasShiny": true,
       "id": 2142278877
     },
     {
@@ -1197,8 +1197,8 @@
       "name": "Pikachu",
       "form": "PokéXciting! (Red)",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/8/87/Pikachu_Pok%C3%A9Xciting_red.png/revision/latest/scale-to-width-down/98?cb=20260822035845",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/49/Pikachu_Pok%C3%A9Xciting_red_shiny.png/revision/latest/scale-to-width-down/98?cb=20260822040029",
+      "hasShiny": true,
       "id": 2142278878
     },
     {
@@ -1206,8 +1206,8 @@
       "name": "Pikachu",
       "form": "Orange hanbok",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/ba/Pikachu_female_orange_hanbok.png/revision/latest/scale-to-width-down/98?cb=20260902142122",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/1d/Pikachu_female_orange_hanbok_shiny.png/revision/latest/scale-to-width-down/98?cb=20260902142143",
+      "hasShiny": true,
       "id": 2142278882
     },
     {
@@ -1443,6 +1443,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/cc/Golduck_holiday_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213122049",
       "hasShiny": true,
       "id": 319043001
+    },
+    {
+      "dexNum": 68,
+      "name": "Machamp",
+      "form": "Modern jacket",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e2/Machamp_modern_jacket.png/revision/latest/scale-to-width-down/98?cb=20260916175618",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278883
     },
     {
       "dexNum": 77,
