@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdate": "2026-09-22",
-  "count": 316,
-  "shinyCount": 303,
+  "lastUpdate": "2026-10-05",
+  "count": 317,
+  "shinyCount": 304,
   "eventPokemon": [
     {
       "dexNum": 1,
@@ -1209,6 +1209,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/1d/Pikachu_female_orange_hanbok_shiny.png/revision/latest/scale-to-width-down/98?cb=20260902142143",
       "hasShiny": true,
       "id": 2142278882
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "Astronaut",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/20/Pikachu_astronaut.png/revision/latest/scale-to-width-down/98?cb=20260923173138",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/42/Pikachu_astronaut_shiny.png/revision/latest/scale-to-width-down/98?cb=20260923173208",
+      "hasShiny": true,
+      "id": 2142278884
     },
     {
       "dexNum": 26,
