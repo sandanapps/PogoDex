@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-03-01",
+  "lastUpdate": "2026-10-09",
   "groups": [
     {
       "group": "Alolan",
@@ -380,7 +380,7 @@
         },
         {
           "dexNum": 83,
-          "name": "Farfetch'd",
+          "name": "Farfetch&#39;d",
           "form": "Kantonian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/b5/Farfetch%27d.png/revision/latest/scale-to-width-down/98?cb=20240212195328",
           "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/8/8f/Farfetch%27d_shiny.png/revision/latest/scale-to-width-down/98?cb=20240212195319",
@@ -388,7 +388,7 @@
         },
         {
           "dexNum": 83,
-          "name": "Farfetch'd",
+          "name": "Farfetch&#39;d",
           "form": "Galarian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e8/Farfetch%27d_galarian.png/revision/latest/scale-to-width-down/98?cb=20240213015819",
           "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/b5/Farfetch%27d_galarian_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213015809",
@@ -412,7 +412,7 @@
         },
         {
           "dexNum": 122,
-          "name": "Mr. Mime",
+          "name": "Mr.&#95;Mime",
           "form": "Kantonian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/4f/Mr._Mime.png/revision/latest/scale-to-width-down/98?cb=20240212214449",
           "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/7/7d/Mr._Mime_shiny.png/revision/latest/scale-to-width-down/98?cb=20240212214439",
@@ -420,7 +420,7 @@
         },
         {
           "dexNum": 122,
-          "name": "Mr. Mime",
+          "name": "Mr.&#95;Mime",
           "form": "Galarian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/b2/Mr._Mime_galarian.png/revision/latest/scale-to-width-down/98?cb=20240213020217",
           "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e6/Mr._Mime_galarian_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213020207",
@@ -764,7 +764,7 @@
           "name": "Lilligant",
           "form": "Hisuian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/ca/Lilligant_hisuian.png/revision/latest/scale-to-width-down/98?cb=20250630200906",
-          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6f/None_shiny.png/revision/latest/scale-to-width-down/98?cb=20210620200403",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/61/Lilligant_hisuian_shiny.png/revision/latest/scale-to-width-down/98?cb=20250630200942",
           "releaseDate": "2026-01-01"
         },
         {
@@ -780,7 +780,7 @@
           "name": "Zorua",
           "form": "Hisuian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/8/80/Zorua_hisuian.png/revision/latest/scale-to-width-down/98?cb=20250630201104",
-          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6f/None_shiny.png/revision/latest/scale-to-width-down/98?cb=20210620200403",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/c7/Zorua_hisuian_shiny.png/revision/latest/scale-to-width-down/98?cb=20250630201036",
           "releaseDate": "2026-01-01"
         },
         {
@@ -796,7 +796,7 @@
           "name": "Zoroark",
           "form": "Hisuian",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/3/3b/Zoroark_hisuian.png/revision/latest/scale-to-width-down/98?cb=20250630201128",
-          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6f/None_shiny.png/revision/latest/scale-to-width-down/98?cb=20210620200403",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9a/Zoroark_hisuian_shiny.png/revision/latest/scale-to-width-down/98?cb=20250630201144",
           "releaseDate": "2026-01-01"
         },
         {
@@ -827,9 +827,9 @@
           "dexNum": 705,
           "name": "Sliggoo",
           "form": "Hisuian",
-          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e3/None.png/revision/latest/scale-to-width-down/98?cb=20231013060329",
-          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6f/None_shiny.png/revision/latest/scale-to-width-down/98?cb=20210620200403",
-          "releaseDate": null
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/f/f3/Sliggoo_hisuian.png/revision/latest/scale-to-width-down/98?cb=20260729191644",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/dc/Sliggoo_hisuian_shiny.png/revision/latest/scale-to-width-down/98?cb=20260729191922",
+          "releaseDate": "2026-11-06"
         },
         {
           "dexNum": 706,
@@ -843,9 +843,9 @@
           "dexNum": 706,
           "name": "Goodra",
           "form": "Hisuian",
-          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e3/None.png/revision/latest/scale-to-width-down/98?cb=20231013060329",
-          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6f/None_shiny.png/revision/latest/scale-to-width-down/98?cb=20210620200403",
-          "releaseDate": null
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/1e/Goodra_hisuian.png/revision/latest/scale-to-width-down/98?cb=20260916143424",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/df/Goodra_hisuian_shiny.png/revision/latest/scale-to-width-down/98?cb=20260916143414",
+          "releaseDate": "2026-11-06"
         },
         {
           "dexNum": 713,
@@ -1980,7 +1980,7 @@
           "name": "Enamorus",
           "form": "Incarnate Forme",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/f/f4/Enamorus.png/revision/latest/scale-to-width-down/98?cb=20240208234036",
-          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6f/None_shiny.png/revision/latest/scale-to-width-down/98?cb=20210620200403",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/44/Enamorus_shiny.png/revision/latest/scale-to-width-down/98?cb=20260903190021",
           "releaseDate": "2026-01-01"
         },
         {
@@ -1988,7 +1988,7 @@
           "name": "Enamorus",
           "form": "Therian Forme",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/22/Enamorus_therian.png/revision/latest/scale-to-width-down/98?cb=20240208234054",
-          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6f/None_shiny.png/revision/latest/scale-to-width-down/98?cb=20210620200403",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/c4/Enamorus_therian_shiny.png/revision/latest/scale-to-width-down/98?cb=20260903185916",
           "releaseDate": "2026-01-01"
         }
       ]
@@ -2762,23 +2762,92 @@
       ]
     },
     {
+      "group": "Minior",
+      "forms": [
+        {
+          "dexNum": 774,
+          "name": "Minior",
+          "form": "Meteor Form",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/bb/Minior.png/revision/latest/scale-to-width-down/98?cb=20261004015422",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d6/Minior_shiny.png/revision/latest/scale-to-width-down/98?cb=20261004015458",
+          "releaseDate": "2026-10-19"
+        },
+        {
+          "dexNum": 774,
+          "name": "Minior",
+          "form": "Red Core",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/ac/Minior_red_core.png/revision/latest/scale-to-width-down/98?cb=20261003004914",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/4c/Minior_red_core_shiny.png/revision/latest/scale-to-width-down/98?cb=20261003005711",
+          "releaseDate": "2026-10-19"
+        },
+        {
+          "dexNum": 774,
+          "name": "Minior",
+          "form": "Orange Core",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/f/f8/Minior_orange_core.png/revision/latest/scale-to-width-down/98?cb=20261003004930",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/f/f6/Minior_orange_core_shiny.png/revision/latest/scale-to-width-down/98?cb=20261003005730",
+          "releaseDate": "2026-10-19"
+        },
+        {
+          "dexNum": 774,
+          "name": "Minior",
+          "form": "Yellow Core",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/b7/Minior_yellow_core.png/revision/latest/scale-to-width-down/98?cb=20261003004949",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9b/Minior_yellow_core_shiny.png/revision/latest/scale-to-width-down/98?cb=20261003005749",
+          "releaseDate": "2026-10-19"
+        },
+        {
+          "dexNum": 774,
+          "name": "Minior",
+          "form": "Green Core",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/59/Minior_green_core.png/revision/latest/scale-to-width-down/98?cb=20261003005006",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/a9/Minior_green_core_shiny.png/revision/latest/scale-to-width-down/98?cb=20261003005810",
+          "releaseDate": "2026-10-19"
+        },
+        {
+          "dexNum": 774,
+          "name": "Minior",
+          "form": "Blue Core",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/0/03/Minior_blue_core.png/revision/latest/scale-to-width-down/98?cb=20261003005023",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/57/Minior_blue_core_shiny.png/revision/latest/scale-to-width-down/98?cb=20261003005831",
+          "releaseDate": "2026-10-19"
+        },
+        {
+          "dexNum": 774,
+          "name": "Minior",
+          "form": "Indigo Core",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/11/Minior_indigo_core.png/revision/latest/scale-to-width-down/98?cb=20261003005045",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/62/Minior_indigo_core_shiny.png/revision/latest/scale-to-width-down/98?cb=20261003005848",
+          "releaseDate": "2026-10-19"
+        },
+        {
+          "dexNum": 774,
+          "name": "Minior",
+          "form": "Violet Core",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/46/Minior_violet_core.png/revision/latest/scale-to-width-down/98?cb=20261003005105",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/1b/Minior_violet_core_shiny.png/revision/latest/scale-to-width-down/98?cb=20261003005905",
+          "releaseDate": "2026-10-19"
+        }
+      ]
+    },
+    {
       "group": "Mimikyu",
       "forms": [
         {
           "dexNum": 778,
           "name": "Mimikyu",
           "form": "Disguised Form",
-          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/41/Mimikyu.png/revision/latest/scale-to-width-down/98?cb=20260121200941",
-          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/3/38/Mimikyu_shiny.png/revision/latest/scale-to-width-down/98?cb=20260121201002",
-          "releaseDate": null
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/41/Mimikyu.png/revision/latest/scale-to-width-down/98?cb=20260903183900",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/3/38/Mimikyu_shiny.png/revision/latest/scale-to-width-down/98?cb=20260903183918",
+          "releaseDate": "2026-01-01"
         },
         {
           "dexNum": 778,
           "name": "Mimikyu",
           "form": "Busted Form",
-          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/bd/Mimikyu_busted.png/revision/latest/scale-to-width-down/98?cb=20260121201315",
-          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/64/Mimikyu_busted_shiny.png/revision/latest/scale-to-width-down/98?cb=20260121201336",
-          "releaseDate": null
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/bd/Mimikyu_busted.png/revision/latest/scale-to-width-down/98?cb=20260903183944",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/64/Mimikyu_busted_shiny.png/revision/latest/scale-to-width-down/98?cb=20260903183957",
+          "releaseDate": "2026-01-01"
         }
       ]
     },
@@ -2816,6 +2885,35 @@
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e3/None.png/revision/latest/scale-to-width-down/98?cb=20231013060329",
           "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/6f/None_shiny.png/revision/latest/scale-to-width-down/98?cb=20210620200403",
           "releaseDate": null
+        }
+      ]
+    },
+    {
+      "group": "Cramorant",
+      "forms": [
+        {
+          "dexNum": 845,
+          "name": "Cramorant",
+          "form": "",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/91/Cramorant.png/revision/latest/scale-to-width-down/98?cb=20260715180157",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/0/0a/Cramorant_shiny.png/revision/latest/scale-to-width-down/98?cb=20260715180210",
+          "releaseDate": "2026-01-01"
+        },
+        {
+          "dexNum": 845,
+          "name": "Cramorant",
+          "form": "Gulping Form",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/17/Cramorant_gulping.png/revision/latest/scale-to-width-down/98?cb=20260715175918",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e3/Cramorant_gulping_shiny.png/revision/latest/scale-to-width-down/98?cb=20260715180047",
+          "releaseDate": "2026-01-01"
+        },
+        {
+          "dexNum": 845,
+          "name": "Cramorant",
+          "form": "Gorging Form",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/43/Cramorant_gorging.png/revision/latest/scale-to-width-down/98?cb=20260715180115",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/2d/Cramorant_gorging_shiny.png/revision/latest/scale-to-width-down/98?cb=20260715180137",
+          "releaseDate": "2026-01-01"
         }
       ]
     },
@@ -2994,6 +3092,43 @@
           "form": "Family of Three",
           "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/ba/Maushold_three.png/revision/latest/scale-to-width-down/98?cb=20240715212908",
           "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/a1/Maushold_three_shiny.png/revision/latest/scale-to-width-down/98?cb=20240715212927",
+          "releaseDate": "2026-01-01"
+        }
+      ]
+    },
+    {
+      "group": "Squawkabilly",
+      "forms": [
+        {
+          "dexNum": 931,
+          "name": "Squawkabilly",
+          "form": "Green Plumage",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/56/Squawkabilly.png/revision/latest/scale-to-width-down/98?cb=20260611125828",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9d/Squawkabilly_shiny.png/revision/latest/scale-to-width-down/98?cb=20260611130021",
+          "releaseDate": "2026-01-01"
+        },
+        {
+          "dexNum": 931,
+          "name": "Squawkabilly",
+          "form": "Blue Plumage",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/8/82/Squawkabilly_blue.png/revision/latest/scale-to-width-down/98?cb=20260611125841",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/0/0f/Squawkabilly_blue_shiny.png/revision/latest/scale-to-width-down/98?cb=20260611130053",
+          "releaseDate": "2026-01-01"
+        },
+        {
+          "dexNum": 931,
+          "name": "Squawkabilly",
+          "form": "Yellow Plumage",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/f/ff/Squawkabilly_yellow.png/revision/latest/scale-to-width-down/98?cb=20260611125853",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/3/38/Squawkabilly_yellow_shiny.png/revision/latest/scale-to-width-down/98?cb=20260611130116",
+          "releaseDate": "2026-01-01"
+        },
+        {
+          "dexNum": 931,
+          "name": "Squawkabilly",
+          "form": "White Plumage",
+          "imageUrl": "https://static.wikia.nocookie.net/pokemongo/images/f/fa/Squawkabilly_white.png/revision/latest/scale-to-width-down/98?cb=20260611125905",
+          "shinyUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/94/Squawkabilly_white_shiny.png/revision/latest/scale-to-width-down/98?cb=20260611130141",
           "releaseDate": "2026-01-01"
         }
       ]
