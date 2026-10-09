@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-10-05",
+  "lastUpdate": "2026-10-09",
   "pokemon": [
     {
       "id": 1,
@@ -17795,12 +17795,12 @@
       "megaYUrl": null,
       "gmaxUrl": null,
       "region": "Alola",
-      "releaseDate": null,
+      "releaseDate": "2026-10-19",
       "shiny": null,
-      "lucky": null,
-      "100iv": null,
-      "xxs": null,
-      "xxl": null,
+      "lucky": "2026-10-19",
+      "100iv": "2026-10-19",
+      "xxs": "2026-10-19",
+      "xxl": "2026-10-19",
       "shadow": null,
       "purified": null,
       "dynamax": null,
@@ -20334,7 +20334,7 @@
       "shadow": null,
       "purified": null,
       "dynamax": "2026-01-01",
-      "gigantamax": null,
+      "gigantamax": "2026-11-06",
       "mega": null
     },
     {
@@ -22327,7 +22327,7 @@
       "gmaxUrl": null,
       "region": "Paldea",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-01-01",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
@@ -22350,7 +22350,7 @@
       "gmaxUrl": null,
       "region": "Paldea",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-01-01",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",

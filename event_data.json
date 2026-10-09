@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-10-05",
+  "lastUpdate": "2026-10-09",
   "count": 317,
   "shinyCount": 304,
   "eventPokemon": [
@@ -1555,7 +1555,7 @@
     {
       "dexNum": 94,
       "name": "Gengar",
-      "form": "Halloween 2022",
+      "form": "Spooky Festival costume",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/c3/Gengar_halloween_2022.png/revision/latest/scale-to-width-down/98?cb=20240213123825",
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/50/Gengar_halloween_2022_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213123819",
       "hasShiny": true,
@@ -1564,7 +1564,7 @@
     {
       "dexNum": 94,
       "name": "Gengar",
-      "form": "Halloween 2023",
+      "form": "Tricks &amp; Treats costume",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/ad/Gengar_halloween_2023.png/revision/latest/scale-to-width-down/98?cb=20240213123839",
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/8/87/Gengar_halloween_2023_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213123832",
       "hasShiny": true,
