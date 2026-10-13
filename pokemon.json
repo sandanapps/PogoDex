@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-10-09",
+  "lastUpdate": "2026-10-13",
   "pokemon": [
     {
       "id": 1,
@@ -21706,7 +21706,7 @@
       "gmaxUrl": null,
       "region": "Paldea",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-10-01",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
@@ -21729,7 +21729,7 @@
       "gmaxUrl": null,
       "region": "Paldea",
       "releaseDate": "2026-01-01",
-      "shiny": null,
+      "shiny": "2026-10-01",
       "lucky": "2026-01-01",
       "100iv": "2026-01-01",
       "xxs": "2026-01-01",
