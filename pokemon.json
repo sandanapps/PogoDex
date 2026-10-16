@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-10-13",
+  "lastUpdate": "2026-10-16",
   "pokemon": [
     {
       "id": 1,
@@ -11041,7 +11041,7 @@
       "xxl": "2026-01-01",
       "shadow": null,
       "purified": null,
-      "dynamax": null,
+      "dynamax": "2026-10-24",
       "gigantamax": null,
       "mega": null
     },
@@ -11064,7 +11064,7 @@
       "xxl": "2026-01-01",
       "shadow": null,
       "purified": null,
-      "dynamax": null,
+      "dynamax": "2026-10-24",
       "gigantamax": null,
       "mega": null
     },
@@ -11087,7 +11087,7 @@
       "xxl": "2026-01-01",
       "shadow": null,
       "purified": null,
-      "dynamax": null,
+      "dynamax": "2026-10-24",
       "gigantamax": null,
       "mega": null
     },
@@ -14010,7 +14010,7 @@
       "purified": "2026-01-01",
       "dynamax": null,
       "gigantamax": null,
-      "mega": null
+      "mega": "2026-10-31"
     },
     {
       "id": 610,
@@ -18585,7 +18585,7 @@
       "xxl": "2026-01-01",
       "shadow": null,
       "purified": null,
-      "dynamax": null,
+      "dynamax": "2026-11-09",
       "gigantamax": null,
       "mega": null
     },
@@ -18608,7 +18608,7 @@
       "xxl": "2026-01-01",
       "shadow": null,
       "purified": null,
-      "dynamax": null,
+      "dynamax": "2026-11-09",
       "gigantamax": null,
       "mega": null
     },
@@ -20586,7 +20586,7 @@
       "xxl": "2026-01-01",
       "shadow": null,
       "purified": null,
-      "dynamax": null,
+      "dynamax": "2026-11-12",
       "gigantamax": null,
       "mega": null
     },
