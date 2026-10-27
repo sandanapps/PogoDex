@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdate": "2026-10-16",
-  "count": 317,
-  "shinyCount": 304,
+  "lastUpdate": "2026-10-27",
+  "count": 323,
+  "shinyCount": 310,
   "eventPokemon": [
     {
       "dexNum": 1,
@@ -1220,6 +1220,15 @@
       "id": 2142278884
     },
     {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "Hat and capelet",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/66/Pikachu_halloween_2026.png/revision/latest/scale-to-width-down/98?cb=20261008194426",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/f/f2/Pikachu_halloween_2026_shiny.png/revision/latest/scale-to-width-down/98?cb=20261008194441",
+      "hasShiny": true,
+      "id": 2142278885
+    },
+    {
       "dexNum": 26,
       "name": "Raichu",
       "form": "Summer hat",
@@ -1407,6 +1416,24 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/1f/Wigglytuff_ribbon_shiny.png/revision/latest/scale-to-width-down/98?cb=20231223111011",
       "hasShiny": true,
       "id": 34412537
+    },
+    {
+      "dexNum": 41,
+      "name": "Zubat",
+      "form": "Top hat",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e3/Zubat_top_hat.png/revision/latest/scale-to-width-down/98?cb=20261016185811",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9c/Zubat_top_hat_shiny.png/revision/latest/scale-to-width-down/98?cb=20261016185912",
+      "hasShiny": true,
+      "id": 2142278886
+    },
+    {
+      "dexNum": 42,
+      "name": "Golbat",
+      "form": "Top hat",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e4/Golbat_top_hat.png/revision/latest/scale-to-width-down/98?cb=20261016185844",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/2e/Golbat_top_hat_shiny.png/revision/latest/scale-to-width-down/98?cb=20261016185929",
+      "hasShiny": true,
+      "id": 2142278887
     },
     {
       "dexNum": 50,
@@ -1893,6 +1920,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/12/Noctowl_new_year_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213133000",
       "hasShiny": true,
       "id": 734963123
+    },
+    {
+      "dexNum": 169,
+      "name": "Crobat",
+      "form": "Top hat",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/0/01/Crobat_top_hat.png/revision/latest/scale-to-width-down/98?cb=20261016185856",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/b5/Crobat_top_hat_shiny.png/revision/latest/scale-to-width-down/98?cb=20261016185943",
+      "hasShiny": true,
+      "id": 2142278888
     },
     {
       "dexNum": 172,
@@ -2811,6 +2847,24 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/a5/Dubwool_holiday_shiny.png/revision/latest/scale-to-width-down/98?cb=20241211195303",
       "hasShiny": true,
       "id": 5562192
+    },
+    {
+      "dexNum": 854,
+      "name": "Sinistea",
+      "form": "Bow Phony Form",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/f/f5/Sinistea_bow.png/revision/latest/scale-to-width-down/98?cb=20261009155203",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/4e/Sinistea_bow_shiny.png/revision/latest/scale-to-width-down/98?cb=20261009155321",
+      "hasShiny": true,
+      "id": 2142278889
+    },
+    {
+      "dexNum": 855,
+      "name": "Polteageist",
+      "form": "Bow Phony Form",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/3/3c/Polteageist_bow.png/revision/latest/scale-to-width-down/98?cb=20261009155246",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/1/1d/Polteageist_bow_shiny.png/revision/latest/scale-to-width-down/98?cb=20261009155348",
+      "hasShiny": true,
+      "id": 2142278890
     },
     {
       "dexNum": 870,
