@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-11-19",
+  "lastUpdate": "2026-11-25",
   "pokemon": [
     {
       "id": 1,
@@ -621,7 +621,7 @@
       "xxl": "2026-01-01",
       "shadow": "2026-01-01",
       "purified": "2026-01-01",
-      "dynamax": null,
+      "dynamax": "2026-12-21",
       "gigantamax": null,
       "mega": null
     },
@@ -644,7 +644,7 @@
       "xxl": "2026-01-01",
       "shadow": "2026-01-01",
       "purified": "2026-01-01",
-      "dynamax": null,
+      "dynamax": "2026-12-21",
       "gigantamax": null,
       "mega": null
     },
@@ -815,7 +815,7 @@
       "name": "Clefable",
       "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
       "shinyUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/36.png",
-      "megaUrl": null,
+      "megaUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10278.png",
       "megaXUrl": null,
       "megaYUrl": null,
       "gmaxUrl": null,
@@ -830,7 +830,7 @@
       "purified": null,
       "dynamax": null,
       "gigantamax": null,
-      "mega": null
+      "mega": "2026-11-28"
     },
     {
       "id": 37,
