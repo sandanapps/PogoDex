@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdate": "2026-10-27",
-  "count": 323,
-  "shinyCount": 310,
+  "lastUpdate": "2026-11-26",
+  "count": 328,
+  "shinyCount": 311,
   "eventPokemon": [
     {
       "dexNum": 1,
@@ -1151,8 +1151,8 @@
       "dexNum": 25,
       "name": "Pikachu",
       "form": "Cosmog-themed spacesuit",
-      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9f/Pikachu_female_spacesuit.png/revision/latest/scale-to-width-down/98?cb=20260805175333",
-      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/ba/Pikachu_female_spacesuit_shiny.png/revision/latest/scale-to-width-down/98?cb=20260805175428",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/9/9f/Pikachu_female_spacesuit.png/revision/latest/scale-to-width-down/98?cb=20261027233510",
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/b/ba/Pikachu_female_spacesuit_shiny.png/revision/latest/scale-to-width-down/98?cb=20261027233528",
       "hasShiny": true,
       "id": 2142278873
     },
@@ -1200,6 +1200,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/4/49/Pikachu_Pok%C3%A9Xciting_red_shiny.png/revision/latest/scale-to-width-down/98?cb=20260822040029",
       "hasShiny": true,
       "id": 2142278878
+    },
+    {
+      "dexNum": 25,
+      "name": "Pikachu",
+      "form": "PokéXciting! (Orange)",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/3/3c/Pikachu_Pok%C3%A9Xciting_orange.png/revision/latest/scale-to-width-down/98?cb=20261027233810",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278891
     },
     {
       "dexNum": 25,
@@ -1485,8 +1494,8 @@
       "name": "Machamp",
       "form": "Modern jacket",
       "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/e/e2/Machamp_modern_jacket.png/revision/latest/scale-to-width-down/98?cb=20260916175618",
-      "shinyImageUrl": null,
-      "hasShiny": false,
+      "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/d/d7/Machamp_modern_jacket_shiny.png/revision/latest/scale-to-width-down/98?cb=20260916175642",
+      "hasShiny": true,
       "id": 2142278883
     },
     {
@@ -1623,6 +1632,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/5/51/Chansey_flower_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213123626",
       "hasShiny": true,
       "id": 1631918430
+    },
+    {
+      "dexNum": 114,
+      "name": "Tangela",
+      "form": "Holiday attire",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/a0/Tangela_holiday.png/revision/latest/scale-to-width-down/98?cb=20261125125005",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278892
     },
     {
       "dexNum": 125,
@@ -2046,6 +2064,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/f/fa/Wooper_hat_shiny.png/revision/latest/scale-to-width-down/98?cb=20240213133303",
       "hasShiny": true,
       "id": 2074141976
+    },
+    {
+      "dexNum": 194,
+      "name": "Wooper",
+      "form": "Holiday attire",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/c/cd/Wooper_paldean_holiday.png/revision/latest/scale-to-width-down/98?cb=20261125125226",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278893
     },
     {
       "dexNum": 195,
@@ -2498,6 +2525,15 @@
       "id": 165802258
     },
     {
+      "dexNum": 465,
+      "name": "Tangrowth",
+      "form": "Holiday attire",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/2/2a/Tangrowth_holiday.png/revision/latest/scale-to-width-down/98?cb=20261125125045",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278894
+    },
+    {
       "dexNum": 466,
       "name": "Electivire",
       "form": "Spark",
@@ -2892,6 +2928,15 @@
       "shinyImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/a/a6/Floragato_horizons_shiny.png/revision/latest/scale-to-width-down/98?cb=20250408180655",
       "hasShiny": true,
       "id": 339529512
+    },
+    {
+      "dexNum": 980,
+      "name": "Clodsire",
+      "form": "Holiday attire",
+      "regularImageUrl": "https://static.wikia.nocookie.net/pokemongo/images/6/68/Clodsire_holiday.png/revision/latest/scale-to-width-down/98?cb=20261125125128",
+      "shinyImageUrl": null,
+      "hasShiny": false,
+      "id": 2142278895
     },
     {
       "dexNum": 999,
